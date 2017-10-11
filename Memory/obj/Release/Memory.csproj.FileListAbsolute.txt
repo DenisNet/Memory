@@ -1,0 +1,12 @@
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\bin\Release\Memory.exe.config
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\bin\Release\Memory.exe
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\bin\Release\Memory.pdb
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\MainWindow.baml
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\MainWindow.g.cs
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\App.g.cs
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\Memory_MarkupCompile.cache
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\Memory.g.resources
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\Memory.Properties.Resources.resources
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\Memory.csproj.GenerateResource.Cache
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\Memory.exe
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Release\Memory.pdb

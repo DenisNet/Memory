@@ -1,0 +1,27 @@
+D:\Мои Документы\Informatik\ILS\CSHP8b-22b\listings\cshp17b\Memory\Memory\bin\Debug\Memory.exe.config
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\bin\Debug\Memory.exe.config
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\bin\Debug\Memory.exe
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\bin\Debug\Memory.pdb
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\MainWindow.baml
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\MainWindow.g.cs
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\App.g.cs
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\Memory_MarkupCompile.cache
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\Memory.g.resources
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\Memory.exe
+D:\Мои Документы\Informatik\ILS\CSHP 17B\Memory\Memory\obj\Debug\Memory.pdb
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\bin\Debug\Memory.exe.config
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\Memory.exe
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\Memory.pdb
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\bin\Debug\Memory.exe
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\bin\Debug\Memory.pdb
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\MainWindow.baml
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\MainWindow.g.cs
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\App.g.cs
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\Memory_MarkupCompile.cache
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\Memory.g.resources
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+D:\Мои Документы\Informatik\ILS\CSHP\CSHP 17B\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
